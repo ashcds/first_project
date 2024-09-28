@@ -1,2 +1,3 @@
-ECHO is on.
-"These are the readme instructions" 
+# Read me 
+
+Hello!
